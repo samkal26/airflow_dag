@@ -1,0 +1,3 @@
+pymongo
+textblob
+textblob_fr
