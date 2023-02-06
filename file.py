@@ -7,7 +7,6 @@ from airflow.decorators import task
 from textblob import TextBlob
 from textblob_fr import PatternTagger, PatternAnalyzer
 
-import pandas as pd
 import pymongo
 from datetime import datetime
 import re
